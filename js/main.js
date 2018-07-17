@@ -1,0 +1,1 @@
+console.log('archivo javascript de prueba 1');
